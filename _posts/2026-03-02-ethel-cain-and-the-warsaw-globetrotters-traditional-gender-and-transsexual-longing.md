@@ -10,6 +10,8 @@ categories: writing
       src="https://www.youtube.com/embed/Zk15_8U6YLc"
       title="YouTube video player"
       frameborder="0"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     </iframe>
