@@ -19,3 +19,6 @@ categories: writing
   <figcaption>♫ Put away basketball / go to work / in calcium mine ♫</figcaption>
 </figure>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zk15_8U6YLc" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+embedtest
