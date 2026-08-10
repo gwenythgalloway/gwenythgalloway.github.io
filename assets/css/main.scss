@@ -7,10 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.videocaption {
-  margin-bottom: 0.5em;
-  color: #6f777d;
-  font-family: Georgia, Times, serif;
-  font-size: 0.75em;
-}
