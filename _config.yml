@@ -125,6 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gwenythgalloway"
+    - label: "Tumblr"
+      icon: "fab fa-fw fa-tumblr"
+      url: "https://gwenythgalloway.tumblr.com"
 
 # Reading Files
 include:
