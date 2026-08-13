@@ -20,7 +20,7 @@ title                    : "Gwenyth Galloway"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gwenyth Galloway"
-description              : "Professional website"
+description              : "The professional website of Gwenyth Galloway, a poet and writer native to Philadelphia, Pennsylvania."
 url                      : "https://gwenythgalloway.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gwenythgalloway/gwenythgalloway.github.io"
